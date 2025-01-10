@@ -8,4 +8,4 @@ This project implements a event driven notification system by using AWS Services
 
 ### ARCHITECTURE
 
-![NBA GAMEDAY NOTIFICATION SYSTEM]("C:\Users\DELL\Downloads\eraser-export-export-10-01-2025-23_36_58\diagram-export-10-01-2025-23_36_58")
+![NBA GAMEDAY NOTIFICATION SYSTEM]("/images/gameday")
