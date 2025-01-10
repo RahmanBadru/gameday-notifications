@@ -8,4 +8,4 @@ This project implements a event driven notification system by using AWS Services
 
 ### ARCHITECTURE
 
-![NBA GAMEDAY NOTIFICATION SYSTEM](/images/gameday.png)
+![NBA GAMEDAY NOTIFICATION SYSTEM](/images/gameday.png?raw=true)
